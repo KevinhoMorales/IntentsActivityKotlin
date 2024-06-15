@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">IntentsActivityKotlin</string>
+    <string name="first_screen_text">Pantalla 1</string>
+    <string name="second_screen_text">Pantalla 2</string>
+    <string name="back_text">Regresar</string>
+    <string name="go_to_second_screen_text">Ir a pantalla 2</string>
+    <string name="hello_world_text">¡Hola Mundo!</string>
 </resources>
